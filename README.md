@@ -1,12 +1,12 @@
 # Add scss loaders to create-react-app
 
-If you want to add more scss webpack loaders into your [create react app](https://github.com/facebook/create-react-app) without the need of ejecting in react, then [Rewire your app](https://github.com/timarney/react-app-rewired#how-to-rewire-your-create-react-app-project) and install this package that will include that extra loader needed for you.
+If you want to add more scss webpack loaders into your [create react app](https://github.com/facebook/create-react-app) without the need of ejecting in react, then [Rewire your app](https://github.com/timarney/react-app-rewired#how-to-rewire-your-create-react-app-project) and install this package that can include that extra loader for you.
 
 # Install
 
 ```bash
-yarn add react-app-rewired react-app-rewire-scss -D
-npm install react-app-rewired react-app-rewire-scss --save-dev
+yarn add react-app-rewired react-app-rewire-scss-loaders -D
+npm install react-app-rewired react-app-rewire-scss-loaders --save-dev
 ```
 
 # Add it to your project
