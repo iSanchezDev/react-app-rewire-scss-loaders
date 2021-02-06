@@ -1,0 +1,18 @@
+{
+	"name": "react-app-rewire-scss-loaders",
+	"version": "0.1.0",
+	"main": "index.js",
+	"license": "MIT",
+	"author": "Ivan Sanchez <isancheznetwork@gmail.com>",
+	"homepage": "https://github.com/iSanchezDev/react-app-rewire-scss-loaders",
+	"bugs": "https://github.com/iSanchezDev/react-app-rewire-scss-loaders/issues",
+	"repository": {
+		"url": "https://github.com/iSanchezDev/react-app-rewire-scss-loaders",
+		"type": "git"
+	},
+	"dependencies": {},
+	"devDependencies": {},
+	"peerDependencies": {
+		"react-app-rewired": "^2.1.8"
+	}
+}
