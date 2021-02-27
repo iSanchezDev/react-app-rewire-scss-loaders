@@ -19,7 +19,7 @@ Secondly (as example) if you want to share global scss variables across your pro
 ```javascript
 /* config-overrides.js */
 
-const addRewireScssLoader = require("react-app-rewire-scss-loader");
+const addRewireScssLoader = require("react-app-rewire-scss-loaders");
 
 module.exports = function override(config, env) {
     
