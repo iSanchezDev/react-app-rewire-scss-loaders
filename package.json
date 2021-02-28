@@ -1,6 +1,6 @@
 {
 	"name": "react-app-rewire-scss-loaders",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"main": "index.js",
 	"license": "MIT",
 	"author": "Ivan Sanchez <isancheznetwork@gmail.com>",
